@@ -1,0 +1,13 @@
+{
+  "name": "gmail-ai-starter",
+  "version": "1.0.0",
+  "description": "Gmail automation with AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "dotenv": "^16.0.0"
+  }
+}
